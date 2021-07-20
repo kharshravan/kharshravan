@@ -49,7 +49,7 @@ Web development | Competitive coding
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=kharshravan&show_icons=true&theme=onedark&include_all_commits=true" /> 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kharshravan&show_icons=true&theme=onedark&layout=compact" />
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kharsravan&theme=onedark&" alt="pratham-mishra178" />
+
 
  
  

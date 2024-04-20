@@ -14,7 +14,7 @@
 
 ## 💀 About me 
 
-⚡ I am an IT undergraduate student at JC Bose University of Science and Technology, Y.M.C.A, Faridabad, Haryana. <br>
+⚡ I am an IT graduate student from JC Bose University of Science and Technology, Y.M.C.A, Faridabad, Haryana, 2023 batch <br>
 ⚡ I ❤ Windows codes. <br>
 ⚡ I am a full-stack developer(MERN stack). <br>
 ⚡ Apart from my studies, I love to play cricket in my leisure time.
